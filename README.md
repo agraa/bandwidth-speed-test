@@ -1,6 +1,8 @@
 # bandwidth-speed-test
 This is a android application that checks the bandwidth provided by your internet service provider (ISP). extras added - RGB background, typewriter test effect, speedo-meter.
 
+https://user-images.githubusercontent.com/35557290/114215000-b1a34e80-9982-11eb-8a74-ad120002dff9.mp4
+
 ![Screenshot_2021-04-09-21-41-48-952_com example speedcheck2](https://user-images.githubusercontent.com/35557290/114214421-e8c53000-9981-11eb-85e0-1a4e0b26695b.jpg)
 
 ![Screenshot_2021-04-09-21-41-54-178_com example speedcheck2](https://user-images.githubusercontent.com/35557290/114214579-19a56500-9982-11eb-8944-36049ae1048d.jpg)
